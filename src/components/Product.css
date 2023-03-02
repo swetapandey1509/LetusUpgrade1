@@ -1,0 +1,16 @@
+.div{
+    width:50rem;
+    height: 10rem;
+    background: #9fe221;
+    font-size: medium;
+    font-style:"vardana";
+    color: black;
+    margin-top: 5px;
+    margin-right:5px ;
+    border-radius: 5rem;
+    padding-top: 30 px;
+}
+.sub{
+    margin-left: 80px;
+    
+}
